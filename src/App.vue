@@ -1,5 +1,5 @@
 <template>
-    <HelloWorld message="Read my lips!"/>
+    <HelloWorld message="Plankton!"/>
 </template>
 
 <script>
